@@ -1,2 +1,2 @@
 ### Qorachoy
-Bir piyola choy bilan hal qilamiz
+Bir piyola choy ustida hal qilamiz
